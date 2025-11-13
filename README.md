@@ -1,101 +1,58 @@
-<!-- Header con estilo -->
-<h1 align="center">👋 ¡Hola! Soy Mateo Galván</h1>
-<h3 align="center">Desarrollador End-to-End especializado en Backend | Técnico Informático | Apasionado por la Arquitectura de Software</h3>
+# ¡Hola! Soy Mateo Galván
+
+## 👨‍💻 Sobre mí
+- Soy **Técnico Informático Profesional** y **Desarrollador End-to-End**, especializado en backend con Java y Spring.  
+- Actualmente estudio **Desarrollo y Calidad de Software en la UNSTA**, carrera creada en convenio con **Globant**, donde profundizo en QA avanzado y testing automático.  
+- Tengo experiencia en **proyectos reales**, lo que me dio nociones prácticas sobre cómo funciona una empresa: stakeholders, PMs, BAs, QA, procesos y despliegues.  
+- Me apasiona la **arquitectura de software**, la escalabilidad y las buenas prácticas de desarrollo.  
 
 ---
 
-## 🌐 Sobre mí
+## 🧩 Tecnologías que uso
 
-Soy **Técnico Informático Profesional** y **Desarrollador End-to-End**, especializado en backend con Java y Spring.  
-Tengo experiencia en **proyectos reales**, lo que me permitió entender de forma práctica cómo funciona una empresa desde adentro: stakeholders, PM, BA, QA, procesos, documentación, testing y despliegues productivos.
+### 🔥 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-Actualmente estudio **Desarrollo y Calidad de Software en la UNSTA**, carrera creada en convenio con **Globant**, donde profundizo en **QA avanzado**, **testing automático**, buenas prácticas y metodologías de ingeniería profesional.
-
-Soy un apasionado por la **arquitectura de software**, la escalabilidad y las buenas prácticas que hacen a un sistema mantenible, seguro y robusto.
-
----
-
-## 🚀 Mi Stack Tecnológico
-
-### 🔥 Backend (Especialidad)
-- **Java 11 / 17 / 21**
-- **Spring Boot · Spring Web · Spring Data JPA**
-- **Spring Security**
-- **Spring Cloud**
-- **Hibernate**
-- **REST APIs**
-- **Maven / Gradle**
-
-### ⚙️ DevOps & Cultura Cloud
-- **Linux (CLI, permisos, servicios)**
-- **SSH & Deploy**
-- **Docker · Docker Compose**
-- **Kubernetes (básico/intermedio)**
-- Integración CI/CD (*en proceso*)
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🧪 QA & Testing
-- **Pruebas unitarias y de integración**
-- **JUnit 5**
-- **Mockito**
-- **TestContainers**
-- Prácticas de QA y control de calidad (UNSTA + Globant)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-2A7F42?style=for-the-badge)
+![TestContainers](https://img.shields.io/badge/Testcontainers-233B6C?style=for-the-badge&logo=testcontainers&logoColor=white)
 
-### 🌐 Frontend (Apoyo para proyectos end-to-end)
-Gracias a herramientas como **v0.dev, ChatGPT, Gemini**, y proyectos universitarios, manejo:
-- **HTML · CSS · JavaScript**
-- **Angular**
-- **React**
-- Diseño de UI para sistemas de gestión
+### 🗄️ Bases de datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🗄️ Bases de Datos
-- **PostgreSQL**
-- **MySQL**
-- **MongoDB**
+### ⚙️ DevOps & Cloud
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
-## 🧩 Experiencia real en proyectos
-He trabajado en proyectos universitarios, empresariales y personales como:
-
-### 🔹 Kerubines App  
-Sistema de gestión comercial (ventas, productos, usuarios, reportes).  
-- Backend en Spring Boot + PostgreSQL  
-- Front en HTML/CSS/JS + Thymeleaf  
-- Funciones avanzadas: filtros, paginación, login, reportes
-
-### 🔹 Amican  
-Plataforma para turnos y administración en peluquerías caninas.  
-- Arquitectura por capas  
-- Microservicios en proceso  
-- Dockerización  
-
-### 🔹 NGT Hub  
-Agencia digital donde desarrollo sistemas empresariales, branding y consultoría tecnológica.
+## 🛠️ Herramientas que utilizo
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📚 Actualmente aprendiendo
-- Arquitectura orientada a eventos (Kafka)  
-- Microservicios avanzados  
-- CI/CD profesional  
-- Seguridad avanzada (JWT, OAuth2)  
+## 🔗 Conectemos
 
----
-
-## 📊 Stats (opcional)
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mateogalvandev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mateogalvandev&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Contacto
-📧 **mateogalvandev@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/MateoGalvanJavaDev  
-📷 **Instagram:** https://www.instagram.com/ngthub.ok/
-
----
-
-<h3 align="center">💬 “La arquitectura es lo que convierte código en un sistema.”</h3>
-
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateogalvandev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MateoGalvanJavaDev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mateogalvandev)
